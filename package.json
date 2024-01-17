@@ -31,6 +31,7 @@
     "workbox-webpack-plugin": "^7.0.0"
   },
   "dependencies": {
+    "idb": "^8.0.0",
     "node-polyfill-webpack-plugin": "^3.0.0",
     "regenerator-runtime": "^0.14.1",
     "workbox-window": "^7.0.0"
