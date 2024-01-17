@@ -28,6 +28,7 @@
     "webpack-merge": "^5.10.0"
   },
   "dependencies": {
+    "node-polyfill-webpack-plugin": "^3.0.0",
     "regenerator-runtime": "^0.14.1"
   }
 }
